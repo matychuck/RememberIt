@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "468564219945",
+    "firebase_url": "https://rememberit-99dec.firebaseio.com",
+    "project_id": "rememberit-99dec",
+    "storage_bucket": "rememberit-99dec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468564219945:android:81af07b6d28ddef4702438",
+        "android_client_info": {
+          "package_name": "com.rememberit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468564219945-13s9b8tsfgcfdr3d4deodtl8344nqqd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnWepOoRe623jvlgPbsfbdtUd9ctHeljI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468564219945-13s9b8tsfgcfdr3d4deodtl8344nqqd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
